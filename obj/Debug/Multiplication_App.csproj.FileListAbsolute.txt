@@ -1,0 +1,10 @@
+D:\Projects\Multiplication_App\bin\Debug\Multiplication_App.exe.config
+D:\Projects\Multiplication_App\bin\Debug\Multiplication_App.exe
+D:\Projects\Multiplication_App\bin\Debug\Multiplication_App.pdb
+D:\Projects\Multiplication_App\obj\Debug\Multiplication_App.csproj.AssemblyReference.cache
+D:\Projects\Multiplication_App\obj\Debug\Multiplication_App.Form1.resources
+D:\Projects\Multiplication_App\obj\Debug\Multiplication_App.Properties.Resources.resources
+D:\Projects\Multiplication_App\obj\Debug\Multiplication_App.csproj.GenerateResource.cache
+D:\Projects\Multiplication_App\obj\Debug\Multiplication_App.csproj.CoreCompileInputs.cache
+D:\Projects\Multiplication_App\obj\Debug\Multiplication_App.exe
+D:\Projects\Multiplication_App\obj\Debug\Multiplication_App.pdb
